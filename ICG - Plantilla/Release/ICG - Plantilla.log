@@ -1,0 +1,9 @@
+﻿  Main.cpp
+c:\users\heide\desktop\icg---plantilla-master\src\main.cpp(36): warning C4101: 'b2': unreferenced local variable
+c:\users\heide\desktop\icg---plantilla-master\src\main.cpp(36): warning C4101: 'b1': unreferenced local variable
+  Generating code
+  3 of 248 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ICG - Plantilla.vcxproj -> C:\Users\heide\Desktop\ICG---Plantilla-master\Release\ICG - Plantilla.exe
